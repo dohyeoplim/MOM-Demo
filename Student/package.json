@@ -1,0 +1,12 @@
+{
+  "name": "Student",
+  "version": "1.0.0",
+  "main": "student",
+  "license": "MIT",
+  "dependencies": {
+    "aws-sdk": "^2.1613.0"
+  },
+  "scripts": {
+    "start": "node student2.js"
+  }
+}

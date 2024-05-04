@@ -1,0 +1,15 @@
+{
+  "name": "pub_sub_implementation",
+  "description": "정보통신공학개론 Report 01 - MOM Implementation",
+  "version": "1.0.0",
+  "main": "main",
+  "author": "Dohyeop Lim<dhlim0817@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "aws-sdk": "^2.1613.0",
+    "ws": "^8.17.0"
+  },
+  "scripts": {
+    "start": "node server.js"
+  }
+}

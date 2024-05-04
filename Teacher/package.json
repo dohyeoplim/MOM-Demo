@@ -1,0 +1,13 @@
+{
+  "name": "Teacher",
+  "version": "1.0.0",
+  "main": "teacher",
+  "license": "MIT",
+  "dependencies": {
+    "aws-sdk": "^2.1613.0",
+    "ws": "^8.17.0"
+  },
+  "scripts": {
+    "start": "node t.js"
+  }
+}
